@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies 
-    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine11'
 }
 
 test {
